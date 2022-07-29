@@ -1,31 +1,30 @@
-# Project Title
+# Controle de Vagas
 
-Controle de Vagas
 
-## Description
+## Descrição
 
 Uma api desenvolvida com Spring Framework que permite controlar vagas de estacionamento em um apartamento. Fazendo também, a verificação se a vaga já esta ocupada ou se o carro já está cadastrado em outra vaga.
 
 ## Getting Started
 
-### Dependencies
+### Dependencias
 
 * Ide de sua preferência
 * Instalação das dependencias Maven
 
 
-## Help
+## Ajuda
 
 Qualquer dúvida sobre execuçao ou instalação da api entre em contato comigo através do e-mail: wallysonprogrammer@gmail.com
 
 
-## Authors
+## Autor
 
 
 Wallyson Roberto
 ex. wallysonprogrammer@gmail.com
 
-## Version History
+## Histórico de Versões
 
 * 0.1
     * Release inicial
